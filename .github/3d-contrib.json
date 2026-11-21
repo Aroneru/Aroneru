@@ -1,0 +1,27 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-sakura.svg",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#e6edf3",
+    "strongColor": "#ff79c6",
+    "weakColor": "#8b949e",
+    "radarColor": "#ff79c6",
+    "growingAnimation": true,
+    "contribColors": ["#21262d", "#5c2a48", "#9c3a72", "#d94c9c", "#ff8ccf"]
+  },
+  {
+    "type": "rainbow",
+    "fileName": "profile-night-rainbow.svg",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#e6edf3",
+    "strongColor": "#ff79c6",
+    "weakColor": "#8b949e",
+    "radarColor": "#ff79c6",
+    "growingAnimation": true,
+    "saturation": "50%",
+    "contribLightness": ["20%", "30%", "35%", "40%", "50%"],
+    "duration": "10s",
+    "hueRatio": -7
+  }
+]
