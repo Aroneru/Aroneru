@@ -73,3 +73,5 @@
 <p align="center">
   <img src="profile-3d-contrib/profile-blue.svg" width="100%" alt="3D contribution calendar" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,55:0d419d,100:0d1117&height=120&section=footer" width="100%" alt="" />
