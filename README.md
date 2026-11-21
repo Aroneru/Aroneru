@@ -24,12 +24,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Livewire-161b22?style=for-the-badge&logo=livewire&logoColor=58a6ff" alt="Livewire" />
-  <img src="https://img.shields.io/badge/QGIS-161b22?style=for-the-badge&logo=qgis&logoColor=58a6ff" alt="QGIS" />
-  <img src="https://img.shields.io/badge/OpenLayers-161b22?style=for-the-badge&logo=openlayers&logoColor=58a6ff" alt="OpenLayers" />
-  <img src="https://img.shields.io/badge/Leaflet-161b22?style=for-the-badge&logo=leaflet&logoColor=58a6ff" alt="Leaflet" />
-  <img src="https://img.shields.io/badge/Jupyter-161b22?style=for-the-badge&logo=jupyter&logoColor=58a6ff" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Chrome_Extensions-161b22?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="Chrome Extensions" />
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
+  <img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white" alt="OpenLayers" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
 </p>
 
 ### 🚀 Projects
